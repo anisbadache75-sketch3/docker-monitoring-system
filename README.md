@@ -9,21 +9,22 @@
 ### Terminal Status
 ![Terminal](terminal.jpg)
 
+
+# IT-Monitoring mit Docker
+
+### 🚀 Was ist das?
+Ich habe ein System gebaut. Es zeigt: Wie schnell ist mein Computer? Wie viel RAM benutzt er? 
+Ich möchte **Fachinformatiker** werden. Dieses Projekt hilft mir beim Lernen.
+
+### 🛠 Was habe ich benutzt?
+* **Docker:** Damit laufen meine Programme.
+* **InfluxDB:** Hier speichere ich die Daten.
+* **Grafana:** Hier sehe ich bunte Grafiken.
+
+### 📈 Was kann ich jetzt?
+* Ich kann Docker auf dem Mac benutzen.
+* Ich kann Datenbanken verbinden.
+* Ich kann Technik einfach erklären.
+
 ---
-# IT-Monitoring System mit Docker
-
-## 🚀 Projektübersicht
-In diesem Projekt habe ich eine automatisierte Monitoring-Umgebung aufgebaut, um Systemdaten in Echtzeit zu visualisieren. Ziel war es, praktische Erfahrungen im Bereich **Systemintegration** (Fachinformatiker) und **Containerisierung** zu sammeln.
-
-## 🛠 Technologien
-* **Docker & Docker Compose**: Zur Orchestrierung der Dienste.
-* **InfluxDB**: Als Datenbank zur Speicherung der System-Metriken.
-* **Grafana**: Zur professionellen Visualisierung der Daten in Dashboards.
-
-## 📈 Lernerfolge
-* Erfolgreiche Konfiguration von Docker-Containern auf macOS.
-* Vernetzung von Datenbanken und Visualisierungstools.
-* Dokumentation von IT-Projekten nach modernen Standards.
-
----
-*Dieses Projekt demonstriert meine Leidenschaft für Systemintegration und meine Fähigkeit, moderne IT-Tools eigenständig zu erlernen.*
+**Ich lerne gerne neue Sachen am Computer. Das ist mein Hobby und mein Ziel.**
