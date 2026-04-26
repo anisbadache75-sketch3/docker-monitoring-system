@@ -1,4 +1,4 @@
-# IT-Monitoring System mit Docker
+![Monitoring Dashboard](Monitoring-Dashboard-Setup.png) # IT-Monitoring System mit Docker
 
 ## 🚀 Projektübersicht
 In diesem Projekt habe ich eine automatisierte Monitoring-Umgebung aufgebaut, um Systemdaten in Echtzeit zu visualisieren. Ziel war es, praktische Erfahrungen im Bereich **Systemintegration** (Fachinformatiker) und **Containerisierung** zu sammeln.
