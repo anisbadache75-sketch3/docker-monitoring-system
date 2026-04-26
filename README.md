@@ -1,4 +1,12 @@
-![Monitoring Dashboard](Monitoring-Dashboard-Setup.png) 
+# IT-Monitoring System mit Docker
+
+### Dashboard View
+![Dashboard](Monitoring-Dashboard-Setup.png)
+
+### Terminal Status
+![Terminal](terminal.jpg)
+
+---
 # IT-Monitoring System mit Docker
 
 ## 🚀 Projektübersicht
