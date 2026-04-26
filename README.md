@@ -9,7 +9,6 @@
 ### Terminal Status
 ![Terminal](terminal.jpg)
 
-
 # IT-Monitoring mit Docker
 
 ### 🚀 Was ist das?
