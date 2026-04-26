@@ -3,6 +3,9 @@
 ### Dashboard View
 ![Dashboard](Monitoring-Dashboard-Setup.png)
 
+### Welcome Screen
+![Welcome](grafana-welcome.jpg.png)
+
 ### Terminal Status
 ![Terminal](terminal.jpg)
 
